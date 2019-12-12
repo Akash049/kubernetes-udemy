@@ -9,7 +9,7 @@ spec:
   # or could be for external user to connect
   selector: 
     app: webapp
-    release: "0-5"
+    # release: "0-5"
 
   ports:
     - name: http
